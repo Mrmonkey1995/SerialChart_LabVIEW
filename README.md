@@ -6,8 +6,8 @@
 * 说明：
   三个通道不需要同时使用。
 
-* 附效果图：<br>1.About:<br>![About](https://github.com/shuai132/SimpleOscillograph/blob/master/1_About.png)
-<br>2.正常运行:<br>![About](https://github.com/shuai132/SimpleOscillograph/blob/master/2_正常运行0.png)
-<br>3.正常运行:<br>![About](https://github.com/shuai132/SimpleOscillograph/blob/master/2_正常运行1.png)
-<br>4.正常运行:<br>![About](https://github.com/shuai132/SimpleOscillograph/blob/master/2_正常运行2.png)
-<br>5.故意拔出串口:<br>![About](https://github.com/shuai132/SimpleOscillograph/blob/master/3_故意拔出串口.png)
+* 附效果图：<br>1.About:<br>![About](https://github.com/shuai132/SerialChart_LabVIEW/blob/master/1_About.png)
+<br>2.正常运行:<br>![About](https://github.com/shuai132/SerialChart_LabVIEW/blob/master/2_正常运行0.png)
+<br>3.正常运行:<br>![About](https://github.com/shuai132/SerialChart_LabVIEW/blob/master/2_正常运行1.png)
+<br>4.正常运行:<br>![About](https://github.com/shuai132/SerialChart_LabVIEW/blob/master/2_正常运行2.png)
+<br>5.故意拔出串口:<br>![About](https://github.com/shuai132/SerialChart_LabVIEW/blob/master/3_故意拔出串口.png)
