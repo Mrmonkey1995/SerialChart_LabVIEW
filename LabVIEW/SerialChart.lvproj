@@ -69,7 +69,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{0A10CF13-A4F4-448D-82B7-42670DEED1D1}</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">SerialChart.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/SerialChart.exe</Property>
@@ -189,7 +189,7 @@ shuai132@outlook.com</Property>
 				<Property Name="INST_defaultDir" Type="Str">{EFBE2EE1-E190-4FA6-AD77-B0552BCFB193}</Property>
 				<Property Name="INST_language" Type="Int">2052</Property>
 				<Property Name="INST_productName" Type="Str">SerialChart</Property>
-				<Property Name="INST_productVersion" Type="Str">1.0.11</Property>
+				<Property Name="INST_productVersion" Type="Str">1.0.12</Property>
 				<Property Name="InstSpecBitness" Type="Str">32-bit</Property>
 				<Property Name="InstSpecVersion" Type="Str">15008024</Property>
 				<Property Name="MSI_arpCompany" Type="Str">shuai</Property>
